@@ -1,0 +1,18 @@
+set selection-clipboard clipboard
+tabbed -c zathura -e
+set window-height 3000
+set window-width 3000
+
+# Open document in fit-width mode by default
+set adjust-open "best-fit"
+
+
+
+
+
+
+
+
+
+
+
