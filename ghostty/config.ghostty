@@ -1,0 +1,16 @@
+background-opacity = 0.75 
+background-blur = true
+font-size = 13
+
+custom-shader = ~/.config/ghostty/shaders/cursor.glsl
+
+mouse-hide-while-typing = true
+
+macos-titlebar-proxy-icon = hidden
+title = " "
+
+clipboard-write = allow
+link-url = false
+
+macos-icon-frame = plastic
+ 
